@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796368805205",
+    "project_id": "personality-scale-c53bc",
+    "storage_bucket": "personality-scale-c53bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796368805205:android:bb61d3769ef9e2585f63dc",
+        "android_client_info": {
+          "package_name": "com.asharqiyahuniversity.personality_scale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1qv_guwO5Njns5kW1u9j_7MxhpYiv2dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
